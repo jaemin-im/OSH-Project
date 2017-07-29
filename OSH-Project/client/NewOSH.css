@@ -1,0 +1,109 @@
+body {
+  background-color: #a7e1f9;
+}
+
+.list {
+  border-radius: 20px;
+  background-color: #fffff5;
+  text-align: center;
+  width: 40%;
+  margin: 1%;
+  padding-bottom: 5%;
+  border-style: solid;
+  display: inline-block;
+}
+.list_head {
+  border-radius: 20px;
+  background-color: #ffda8e;
+  width: 38%;
+  margin: 1%;
+  padding: 15px 29.5%;
+  border-style: solid;
+}
+.list_body1 {
+  border-radius: 20px;
+  background-color: #ffda8e;
+  border-style: solid;
+  float: left;
+  margin: 5px;
+  padding: 1% 13%;
+  min-width: 20%;
+}
+.list_body2 {
+  border-radius: 20px;
+  background-color: #ffda8e;
+  border-style: solid;
+  float: right;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: : 15%;
+  margin-right: 1%;
+  width: 19%;
+  padding: 1% 13%;
+  min-width: 19%;
+}
+
+#rogo {
+  position: absolute;
+  top: 70%;
+  left: 3%;
+  bottom: 12%;
+  float: left;
+  display: inline-block;
+}
+
+.info {
+  border-radius: 20px;
+  float: right;
+  width: 55%;
+  margin: 1%;
+}
+.info_head {
+  border-radius: 20px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  background-color: #fffff5;
+  border-style: solid;
+  border-bottom-style: none;
+  margin: 0%;
+  padding: 5% 10%;
+  display: inline-block;
+}
+.info_name {
+  font-size: 40px;
+  text-align: center;
+  font-family: dotum;
+  border-radius: 20px;
+  background-color: #fc9d9a;
+  border-style: solid;
+  float: right;
+  min-width: 40%;
+  margin-bottom: 1%;
+  padding: 0% 10% 0% 10%;
+  display: inline-block;
+}
+.info_empty {
+  border-bottom-left-radius: 20px;
+  background-color: #fffff5;
+  border-style: solid;
+  border-top-style: none;
+  border-right-style: dotted;
+  margin-right: 0%;
+  padding: 30% 18.35%;
+  display: inline-block;
+  float: left;
+}
+.info_body {
+  border-radius: 20px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background-color: #fffff5;
+  border-style: solid;
+  border-left-style: none;
+  width: 61%;
+  height: 50%;
+  padding-bottom: 41%;
+  margin-left: 0%;
+  display: inline-block;
+  float: right;
+}
