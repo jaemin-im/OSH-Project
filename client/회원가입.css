@@ -1,0 +1,9 @@
+body {
+  position: absolute;
+  left: 30%;
+  font-size: 20px;
+}
+
+.id {
+  display: inline-block;
+}
