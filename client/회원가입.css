@@ -1,9 +1,11 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 body {
   background-color: #a7e1f9;
+  font-family: "Nanum Gothic";
 }
 
 .logo {
-  margin: 5%;
+  margin: 8%;
   margin-right: 0%;
   left: 5%;
   display: inline-block;
@@ -11,12 +13,13 @@ body {
 
 .register {
   border-radius: 20px;
-  font-size: 20px;
+  font-size: 18px;
   background-color: #fff493;
   border-style: dotted;
   text-align: left;
   padding: 1%;
-  padding-right: 15%;
+  padding-bottom: 5%;
+  padding-right: 25%;
   float: right;
   margin: 5%;
   display: inline-block;
@@ -25,5 +28,5 @@ body {
 #check {
   position: absolute;
   right: 10%;
-  bottom: 55%;
+  bottom: 38%;
 }
