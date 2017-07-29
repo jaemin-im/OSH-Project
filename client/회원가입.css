@@ -1,13 +1,29 @@
 body {
   background-color: #a7e1f9;
-  position: absolute;
-  left: 30%;
-  font-size: 20px;
 }
 
-.login {
-  background-color: #fff493;
+.logo {
+  margin: 5%;
+  margin-right: 0%;
+  left: 5%;
+  display: inline-block;
+}
+
+.register {
   border-radius: 20px;
+  font-size: 20px;
+  background-color: #fff493;
   border-style: dotted;
-  padding: 5%;
+  text-align: left;
+  padding: 1%;
+  padding-right: 15%;
+  float: right;
+  margin: 5%;
+  display: inline-block;
+}
+
+#check {
+  position: absolute;
+  right: 10%;
+  bottom: 55%;
 }

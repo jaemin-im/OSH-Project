@@ -2,27 +2,36 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>자모</title>
+    <title>자모회원가입</title>
     <link rel="stylesheet" href="회원가입.css">
   </head>
   <body>
-    <div class="title">
+    <div class="logo">
       <img src="로고-1.png" alt="자모로고">
     </div>
-    <div class="login">
+    <div class="register">
+      <div class="name">
+        이름&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="text" name="이름" value=""><br><br>
+      </div>
       <div class="id">
-        <p>아이디</p>
-        <form>
-          <input type="text" name="id" value="">
-        </form>
+        아이디 (이메일)&nbsp;
+        <input type="text" name="아이디" value="">
+        <input type="submit" name="중복확인" value="중복확인"><br><br>
       </div>
-      <div class="pw">
-      <p>비밀번호</p>
-        <form>
-          <input type="password" name="pw" value=""><br>
-        </form>
-        <input type="submit" name="전송" value="전송">
+      <div class="비밀번호">
+        비밀번호 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="text" name="비밀번호" value=""><br>
+        비밀번호 확인&nbsp;&nbsp;
+        <input type="text" name="비밀번호 확인" value=""><br><br>
       </div>
+      <div class="전화번호">
+        전화번호&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="text" name="전화번호" value=""><br>
+      </div>
+      <form>
+        <input id="check" type="submit" name="확인" value="확인">
+      </form>
     </div>
   </body>
 </html>
