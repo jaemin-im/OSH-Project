@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>자모 회원가입</title>
+    <link rel="stylesheet" href="stylesheets/join.css" />
+</head>
+
+<body>
+    <div class="logo">
+        <img src="images/logo.png" alt="jamo-logo" />
+    </div>
+    <div class="register">
+        <div class="name">
+            이름<br />
+            <form action="/join_script" method="post">
+                <input type="text" name="user_name" value="" /><br /><br />
+        </div>
+        <div class="id">
+            이메일<br />
+            <input type="email" name="email" value="" />
+        </div>
+        <div class="pw">
+            비밀번호<br />
+            <input type="password" name="pw" value="" /><br /> 비밀번호 확인<br />
+            <input type="password" name="pw_check" value="" />
+        </div>
+        <div class="phone">
+            전화번호<br />
+            <input type="text" name="phone" value="" /><br />
+        </div>/<br />
+        <input type="submit" name="check" value="확인" />
+        </form>
+    </div>
+</body>
+
+</html>

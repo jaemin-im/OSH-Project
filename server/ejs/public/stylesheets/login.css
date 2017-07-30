@@ -1,0 +1,13 @@
+body {
+  background-color: #a7e1f9;
+  position: absolute;
+  left: 30%;
+  font-size: 20px;
+}
+
+.login {
+  background-color: #fff493;
+  border-radius: 20px;
+  border-style: dotted;
+  padding: 5%;
+}

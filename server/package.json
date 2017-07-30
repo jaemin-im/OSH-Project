@@ -9,7 +9,10 @@
   "author": "Xsolute",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.5.6",
     "express": "^4.15.3",
+    "express-generator": "^4.15.0",
+    "pug": "^2.0.0-rc.2",
     "uglify-js": "^3.0.26",
     "underscore": "^1.8.3"
   }
