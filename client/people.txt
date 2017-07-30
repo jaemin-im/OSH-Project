@@ -1,0 +1,33 @@
+1번 사람
+이름: 박보숭
+id: boribori@gmail.com
+pw: monkey123
+phone: 010-5877-1234
+자격증
+ITQ 파워포인트
+ITQ 한글
+끝
+
+2번 사람
+이름: 휴지이
+id: easy@gmail.com
+pw: djdlrkdjqtsp
+phone: 010-5858-5858
+자격증
+한자 8급
+한국사 6급
+태권도 사범지도자 1급
+끝
+
+3번 사람
+이름: 류지옹
+id: grandfather@gmail.com
+pw: 3000age
+phone: 017-3488-1823
+자격증
+복어 조리기능사
+한식 조리기능사
+양식 조리기능사
+일식 조리기능사
+중식 조리기능사
+끝
