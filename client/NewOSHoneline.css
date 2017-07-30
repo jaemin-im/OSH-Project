@@ -15,11 +15,12 @@ body {
   display: inline-block;
 }
 .list_head {
+  font-size: 25px;
   border-radius: 20px;
   background-color: #ffda8e;
   width: 38%;
   margin: 1%;
-  padding: 15px 29.5%;
+  padding: 0% 29.5%;
   border-style: solid;
 }
 .list_body{
@@ -86,7 +87,6 @@ body {
   border-style: solid;
   float: right;
   min-width: 40%;
-  margin-bottom: 1%;
   padding: 0% 10% 0% 10%;
   display: inline-block;
 }
@@ -97,7 +97,7 @@ body {
   border-top-style: none;
   border-right-style: dotted;
   margin-right: 0%;
-  padding: 30% 18.35%;
+  padding: 30% 18.8%;
   display: inline-block;
   float: left;
 }
@@ -109,9 +109,9 @@ body {
   border-style: solid;
   border-left-style: none;
   width: 61%;
-  height: 50%;
   padding-bottom: 41%;
   margin-left: 0%;
+  margin-top: 0%;
   display: inline-block;
   float: right;
 }
